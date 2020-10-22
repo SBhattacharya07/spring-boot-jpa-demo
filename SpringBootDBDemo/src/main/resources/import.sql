@@ -1,0 +1,1 @@
+INSERT INTO contacts values("Test","test@gmail.com",8884032119,"www.test.com"); 
